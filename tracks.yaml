@@ -73,7 +73,7 @@ tracks:
     patches: null
     release_inc: '2'
     release_repo_url: null
-    release_tag: 0.2.4
+    release_tag: :{version}
     ros_distro: jazzy
     vcs_type: git
     vcs_uri: https://github.com/botsandus/ament_black.git
