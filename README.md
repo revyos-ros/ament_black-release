@@ -1,3 +1,28 @@
+## ament_black (jazzy) - 0.2.6-1
+
+The packages in the `ament_black` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy ament_black --override-release-repository-push-url git@github.com:revyos-ros/ament_black-release.git` on `Wed, 25 Sep 2024 07:53:29 -0000`
+
+These packages were released:
+- `ament_black`
+- `ament_cmake_black`
+
+Version of package(s) in repository `ament_black`:
+
+- upstream repository: https://github.com/botsandus/ament_black.git
+- release repository: https://github.com/revyos-ros/ament_black-release.git
+- rosdistro version: `0.2.6-1`
+- old version: `0.2.4-2`
+- new version: `0.2.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ament_black (humble) - 0.2.6-1
 
 The packages in the `ament_black` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble ament_black --override-release-repository-push-url git@github.com:revyos-ros/ament_black-release.git` on `Mon, 23 Sep 2024 03:33:38 -0000`
